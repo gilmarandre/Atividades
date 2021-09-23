@@ -2,8 +2,7 @@ public class Exercicio2 {
 
 /* Faça um programa que receba três notas,
  calcule e mostre a média aritmética.
-Gilmar André Bento da Silva, RGM 27816770, Periodo Noturno, 1/2°Semestre*/
-
+Gilmar André*/
     public static void main(String [] args){
         
         Float nota1, nota2, nota3, resultado;
